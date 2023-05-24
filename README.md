@@ -1,6 +1,10 @@
 # PucciGames
 
-## Hot to install:
+## About
+
+PucciGames.com is my website about the games I make.
+
+## Hot to install
 
  ### You will get the entire database structure in the SQLdump.sql file
  ### Go to app/config/config.php to configure everything:
