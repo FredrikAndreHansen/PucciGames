@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="36.308895mm"
+   height="12.706202mm"
+   viewBox="0 0 36.308895 12.706201"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="PayPal_donate2.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="55.628399"
+     inkscape:cy="8.196029"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-79.11581,-126.88075)">
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 42.955078,-61.113281 a 23.999998,24.499998 0 0 1 19.1875,24 23.999998,24.499998 0 0 1 -19.300781,24 H 155.60156 a 23.999998,23.999998 0 0 0 0.47071,0.02344 23.999998,23.999998 0 0 0 0.65625,-0.02344 H 157 v -0.0098 A 23.999998,23.999998 0 0 0 180.07227,-37.089844 23.999998,23.999998 0 0 0 157,-61.042969 v -0.07031 z"
+       id="rect815"
+       inkscape:connector-curvature="0"
+       clip-path="none"
+       transform="matrix(0.26458333,0,0,0.26458333,67.780585,143.05031)" />
+    <g
+       id="g1729"
+       style="fill:#000000;fill-opacity:1"
+       transform="matrix(0.68697699,0,0,0.68061196,26.454477,42.586488)">
+      <ellipse
+         clip-path="none"
+         ry="12.361633"
+         rx="10.497578"
+         cy="133.23317"
+         cx="74.160149"
+         id="path831"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:15.66190434;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+       x="84.790901"
+       y="133.93028"
+       id="text850"
+       clip-path="none"><tspan
+         sodipodi:role="line"
+         id="tspan848"
+         x="84.790901"
+         y="133.93028"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke:none;stroke-width:0.26458332;stroke-opacity:1">Donate with PayPal</tspan></text>
+  </g>
+</svg>
