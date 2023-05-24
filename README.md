@@ -28,7 +28,10 @@ The site has 5 functionalitites, Email, Posting Updates, Posting Assets, User Cr
  
  - Post assets: Posting a asset also require the user to be a admin. When posting the asset you must give it a name, description, alt description, add a image and assign it to one of the following categories: Textures, Sprites or Backgrounds. You can also filter assets by category or searching for them in the "Assets" page.
  
- - Users:
+ - Users: The reason for having users is for preventing spam in comments, it is also easier to maintain comments with users (for example: if a user should leave many spam comments, the admin user can then ban the user and all the comments from that user is removed, they can also be retrieved back if you unban the user). You can register as a new user by going to the "Register" page, you will then need to create a username, email and a password (adding a website is optional). The user will then be a normal user by default, you can only create a admin user from the database, set the "usertype" column to "Admin". Also, the user needs to confirm their email before they can comment, if they don't confirm the email within 24 hours then the user will be deleted. The admin also have a list over all the users, when they made any changes and where they have left a comment.
+
  - Comments:
+
+## Security
 
 ## Site file structure
