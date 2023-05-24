@@ -35,5 +35,8 @@ The site has 5 functionalitites, Email, Posting Updates, Posting Assets, User Cr
 ## Security
 
 - Prevents SQL injection and cross site scripting in all input/text fields. The "Trim" function is used to remove any scripts/tags.
+- Only the "public" folder is available since the "app" folder has all the functionalities.
+- There are 5 login attempts for logging in before you receive a cooldown.
+- All passwords are hashed.
 
 ## File structure
