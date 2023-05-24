@@ -23,6 +23,7 @@ The site is made with HTML5, CSS3, JavaScript, Three.js, PHP and MySQL.
 The site has 5 functionalitites, Email, Posting Updates, Posting Assets, User Creation/Login and Commenting.
  - Email: You can receive emails from the email form on the landing page.
  The email has 2 spam filters, the first filter is the captcha. The second filter checks for certain spam words, if the email contains any of the spam words then the email is rejected. The user will receive a message that the email was rejected due to the email being marked as spam, however, it is very unlikely that a user would get the email rejected due to the spam words. The filter words are the following: 'SEO', 'GMB', 'ahrefs', 'UR40+', 'Moz', 'MOZ', 'FREE', 'EXPIRATION', 'Semrush'. This can be changed in app/controllers/Index.php.
+ 
  - Post updates:
  - Post assets:
  - Users:
