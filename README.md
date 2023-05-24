@@ -38,5 +38,6 @@ The site has 5 functionalitites, Email, Posting Updates, Posting Assets, User Cr
 - Only the "public" folder is available since the "app" folder has all the functionalities.
 - There are 5 login attempts for logging in before you receive a cooldown.
 - All passwords are hashed.
+- If a user has forgotten their password they need to enter their email address and a randomly generated string of 60 characters are sent to their email which they must use to change their password within 10 minutes before it expires.
 
 ## File structure
