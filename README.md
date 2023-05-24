@@ -2,7 +2,8 @@
 
 ## About
 
-PucciGames.com is my website about the games I make.
+Pucci Games is my website about the games I make, the site is hosted at: www.puccigames.com
+
 The site is made with HTML5, CSS3, JavaScript, Three.js, PHP and MySQL.
 
 ## Hot to install
@@ -16,3 +17,7 @@ The site is made with HTML5, CSS3, JavaScript, Three.js, PHP and MySQL.
   - "AUTHOR" is the websites author.
   - "SITENAME" is the name of the site.
   - "CAPTCHA_SITEKEY" is the captcha key received from Google, the webiste is using the Google Captcha V2.
+
+## Site functionalities
+
+ - The site
