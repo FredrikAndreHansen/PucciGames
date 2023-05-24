@@ -4,7 +4,7 @@
 
 Pucci Games is my website about the games I make, the site is hosted at: www.puccigames.com
 
-The site is made with HTML5, CSS3, JavaScript, Three.js, PHP and MySQL.
+The site is made with HTML5, CSS3, JavaScript, Three.js, PHP and MySQL. The code is object oriented and are using the MVC(Model View Controller) framework.
 
 ## How to install
 
