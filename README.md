@@ -20,4 +20,11 @@ The site is made with HTML5, CSS3, JavaScript, Three.js, PHP and MySQL.
 
 ## Site functionalities
 
- - The site
+The site has 5 functionalitites, Email, posting updates, posting assets, user creation/login and commenting.
+ - Email: 
+ - Post updates:
+ - Post assets:
+ - Users:
+ - Comments:
+
+## Site file structure
