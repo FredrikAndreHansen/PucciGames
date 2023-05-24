@@ -34,4 +34,6 @@ The site has 5 functionalitites, Email, Posting Updates, Posting Assets, User Cr
 
 ## Security
 
+- Prevents SQL injection and cross site scripting in all input/text fields. The "Trim" function is used to remove any scripts/tags.
+
 ## File structure
