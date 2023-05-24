@@ -3,6 +3,7 @@
 ## About
 
 PucciGames.com is my website about the games I make.
+The site is made with HTML5, CSS3, JavaScript, Three.js, PHP and MySQL.
 
 ## Hot to install
 
