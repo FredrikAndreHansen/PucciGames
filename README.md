@@ -20,17 +20,17 @@ The site is made with HTML5, CSS3, JavaScript, Three.js, PHP and MySQL. The code
 
 ## Functionalities
 
-The site has 5 functionalitites, Email, Posting Updates, Posting Assets, User Creation/Login and Commenting.
+The site has 5 functionalitites, Email, Blog, Posting Assets, User Creation/Login and Commenting.
  - Email: You can receive emails from the email form on the landing page.
  The email has 2 spam filters, the first filter is the captcha. The second filter checks for certain spam words, if the email contains any of the spam words then the email is rejected. The user will receive a message that the email was rejected due to the email being marked as spam, however, it is very unlikely that a user would get the email rejected due to the spam words. The filter words are the following: 'SEO', 'GMB', 'ahrefs', 'UR40+', 'Moz', 'MOZ', 'FREE', 'EXPIRATION', 'Semrush'. This can be changed in app/controllers/Index.php.
  
- - Post updates: Only a admin user can post updates. When posting a update, you can add a headline, description, images and then assign a category. You can then view the post from the "Posts" page and you can then filter by category, or search for the post. The 4 most recent posts will automatically appear on the landing page. If you post anything by using "3P", "2020: A Space Odyssey" or "Paper World" as the category, then the post will also appear on the information page for the game selected.
+ - Blog: Only a admin user can add blog posts. When posting a update, you can add a headline, description, images and then assign a category. You can then view the blog from the "Posts" page and you can then filter by category, or search for the blog post. The 4 most recent blog posts will automatically appear on the landing page. If you post anything by using "3P", "2020: A Space Odyssey" or "Paper World" as the category, then the blog post will also appear on the information page for the game selected.
  
  - Post assets: Posting a asset also require the user to be a admin. When posting the asset you must give it a name, description, alt description, add a image and assign it to one of the following categories: Textures, Sprites or Backgrounds. You can also filter assets by category or searching for them in the "Assets" page.
  
  - Users: The reason for having users is for preventing spam in comments, it is also easier to maintain comments with users (for example: if a user should leave many spam comments, the admin user can then ban the user and all the comments from that user is removed, they can also be retrieved back if you unban the user). You can register as a new user by going to the "Register" page, you will then need to create a username, email and a password (adding a website is optional). The user will then be a normal user by default, you can only create a admin user from the database, set the "usertype" column to "Admin". Also, the user needs to confirm their email before they can comment, if they don't confirm the email within 24 hours then the user will be deleted. The admin also have a list over all the users, when they made any changes and where they have left a comment.
 
- - Comments: After a user has confirmed their email they can then leave a comment, they can leave a comment for any posts or assets that are submitted. The comment will contain the users image, their username, their website, date of comment and the comment. Everytime there is a new comment or if a post or asset is submitted, then the sitemap.xml is automatically updated accordingly.
+ - Comments: After a user has confirmed their email they can then leave a comment, they can leave a comment for any blog posts or assets that are submitted. The comment will contain the users image, their username, their website, date of comment and the comment. Every time there is a new comment or if a new blog post or asset is submitted, then the sitemap.xml will be automatically updated accordingly.
 
 ## Security
 
