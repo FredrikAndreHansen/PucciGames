@@ -18,6 +18,8 @@ The site is made with HTML5, CSS3, JavaScript, Three.js, PHP, and MySQL. The cod
   - "SITENAME" is the name of the site.
   - "CAPTCHA_SITEKEY" is the captcha key received from Google, the website is using the Google Captcha V2.
 
+  - Add the Three.js file in public/javascript
+
 ## Functionalities
 
 The site has 5 functionalities, Email, Blog, Posting Assets, User Creation/Login, and Commenting.
