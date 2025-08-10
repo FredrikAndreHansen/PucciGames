@@ -17,7 +17,6 @@ The site is made with HTML5, CSS3, JavaScript, Three.js, PHP, and MySQL. The cod
   - "AUTHOR" is the website's author.
   - "SITENAME" is the name of the site.
   - "CAPTCHA_SITEKEY" is the captcha key received from Google, the website is using the Google Captcha V2.
-
   - Add the Three.js file in public/javascript
 
 ## Functionalities
