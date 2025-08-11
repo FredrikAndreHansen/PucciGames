@@ -28,7 +28,7 @@ class Index extends Controller {
 		        $spam = true;
 		    }
 		    
-		    if($spam === false){
+		    if($spam == false){
 			    $emailSent = "Thank you for your email";
 			    $emailSent2 = "I will respond back as soon as I can!";
             
