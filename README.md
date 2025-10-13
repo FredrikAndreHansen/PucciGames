@@ -1,5 +1,7 @@
 # PucciGames
 
+![puccigamesPC](https://github.com/user-attachments/assets/f26186ac-0ee4-43e3-9223-e4b27c438cd9)
+
 ## About
 
 Pucci Games is my website about the games I make, the site is hosted at: www.puccigames.com
